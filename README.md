@@ -1,5 +1,5 @@
 ## Hi there 👋
-/ My name is SkeletomTree485
+My name is SkeletomTree485. My interests are programming, architecture and playing and administrating a server in Minecraft or managing trains in OpenTTD
 <!--
 **SkeletonTree485/SkeletonTree485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
